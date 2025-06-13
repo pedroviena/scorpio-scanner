@@ -1,7 +1,5 @@
 # Scorpion - Ferramenta de Análise de Segurança Web
 
-![Scorpion Banner](https://i.imgur.com/8Yg0Vq8.png)
-
 Scorpion é um scanner de vulnerabilidades web básico, escrito em Python, projetado para fins educacionais. Ele automatiza a busca por falhas de segurança comuns em aplicações web, como **SQL Injection**, **Cross-Site Scripting (XSS)** e **Directory Traversal**.
 
 ---
